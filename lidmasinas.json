@@ -1,0 +1,37 @@
+{
+    "cz300": {
+        "Nosaukums": "cz300",
+        "Razosanas gads": "2019",
+        "Vietu skaits": "34"
+    },
+    "cz343": {
+        "Nosaukums": "CZ343",
+        "Razosanas gads": "1998",
+        "Vietu skaits": "12"
+    },
+    "cz776": {
+        "Nosaukums": "CZ776",
+        "Razosanas gads": "1993",
+        "Vietu skaits": "34"
+    },
+    "df43": {
+        "Nosaukums": "df43",
+        "Razosanas gads": "1992",
+        "Vietu skaits": "43"
+    },
+    "hg666": {
+        "Nosaukums": "HG666",
+        "Razosanas gads": "666",
+        "Vietu skaits": "666"
+    },
+    "test": {
+        "Nosaukums": "test",
+        "Razosanas gads": "123",
+        "Vietu skaits": "123"
+    },
+    "tets": {
+        "Nosaukums": "tets",
+        "Razosanas gads": "199",
+        "Vietu skaits": "199"
+    }
+}

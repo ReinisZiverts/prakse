@@ -1,0 +1,55 @@
+{
+    "admin": {
+        "Admin": 1,
+        "Password": "admin",
+        "Username": "admin",
+        "Uzvards": "admin",
+        "Vards": "admin"
+    },
+    "test": {
+        "Admin": 0,
+        "Password": "test",
+        "Rezervacijas": {
+            "londona - riga  15/2/2019 14:0": {
+                "Ielidosanas datums": "16/2/2019",
+                "Ielidosanas laiks": "14:30",
+                "Izlidosanas datums": "15/2/2019",
+                "Izlidosanas laiks": "14:0",
+                "Lidmasina": {
+                    "Nosaukums": "CZ343",
+                    "Razosanas gads": "1998",
+                    "Vietu skaits": "12"
+                },
+                "Nosaukums": "Londona - Riga  15/2/2019 14:0",
+                "Rezervacijas Nr": 42,
+                "Virziens no-uz": "Londona - Riga "
+            }
+        },
+        "Username": "test",
+        "Uzvards": "Test",
+        "Vards": "Test"
+    },
+    "user": {
+        "Admin": 0,
+        "Password": "user",
+        "Rezervacijas": {
+            "londona - riga  15/2/2019 14:0": {
+                "Ielidosanas datums": "16/2/2019",
+                "Ielidosanas laiks": "14:30",
+                "Izlidosanas datums": "15/2/2019",
+                "Izlidosanas laiks": "14:0",
+                "Lidmasina": {
+                    "Nosaukums": "CZ343",
+                    "Razosanas gads": "1998",
+                    "Vietu skaits": "11"
+                },
+                "Nosaukums": "Londona - Riga  15/2/2019 14:0",
+                "Rezervacijas Nr": 18468,
+                "Virziens no-uz": "Londona - Riga "
+            }
+        },
+        "Username": "user",
+        "Uzvards": "User",
+        "Vards": "User"
+    }
+}

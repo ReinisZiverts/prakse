@@ -1,0 +1,41 @@
+{
+    "liepaja - riga 12/2/2019 12:30": {
+        "Ielidosanas datums": "23/2/2019",
+        "Ielidosanas laiks": "12:0",
+        "Izlidosanas datums": "12/2/2019",
+        "Izlidosanas laiks": "12:30",
+        "Lidmasina": {
+            "Nosaukums": "CZ343",
+            "Razosanas gads": "1998",
+            "Vietu skaits": "12"
+        },
+        "Nosaukums": "Liepaja - Riga 12/2/2019 12:30",
+        "Virziens no-uz": "Liepaja - Riga"
+    },
+    "londona - riga  15/2/2019 25:00": {
+        "Ielidosanas datums": "16/2/2019",
+        "Ielidosanas laiks": "14:30",
+        "Izlidosanas datums": "15/2/2019",
+        "Izlidosanas laiks": "25:00",
+        "Lidmasina": {
+            "Nosaukums": "CZ343",
+            "Razosanas gads": "1998",
+            "Vietu skaits": "10"
+        },
+        "Nosaukums": "Londona - Riga  15/2/2019 25:00",
+        "Virziens no-uz": "Londona - Riga "
+    },
+    "riga - londona 12/2/2019 12:30": {
+        "Ielidosanas datums": "12/2/2019",
+        "Ielidosanas laiks": "13:30",
+        "Izlidosanas datums": "12/2/2019",
+        "Izlidosanas laiks": "12:30",
+        "Lidmasina": {
+            "Nosaukums": "CZ343",
+            "Razosanas gads": "1998",
+            "Vietu skaits": "8"
+        },
+        "Nosaukums": "Riga - Londona 12/2/2019 12:30",
+        "Virziens no-uz": "Riga - Londona"
+    }
+}
